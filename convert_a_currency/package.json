@@ -1,0 +1,14 @@
+{
+  "name": "convert_a_currency",
+  "version": "0.0.1",
+  "description": "In this stage, we will start converting a provided amount of USD to the list of currencies in the first stage.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "demian.odasso",
+  "license": "ISC",
+  "dependencies": {
+    "sync-input": "https://github.com/hyperskill/sync-input/archive/v1.tar.gz"
+  }
+}
